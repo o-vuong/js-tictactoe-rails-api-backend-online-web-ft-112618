@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'active_model_serializers', '0.10.6'
 
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+# Bundle edge Rails instead: gem 'rails', '>= 7.1.0', github: 'rails/rails'
 gem 'rails'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~>1.3.6'
